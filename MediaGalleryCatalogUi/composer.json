@@ -22,5 +22,6 @@
         "psr-4": {
             "Magento\\MediaGalleryCatalogUi\\": ""
         }
-    }
+    },
+    "version": "1.0.0-alpha1"
 }

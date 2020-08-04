@@ -19,5 +19,6 @@
         "psr-4": {
             "Magento\\MediaGalleryCmsUi\\": ""
         }
-    }
+    },
+    "version": "1.0.0-alpha1"
 }
