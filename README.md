@@ -19,3 +19,4 @@ To connect with Magento team and the Community, join us on the [Magento Communit
 If you are interested in joining Slack, or a specific channel, use our [self signup](https://opensource.magento.com/slack) link.
 
 Adobe Stock Integration project slack channel: [#adobe-stock](https://magentocommeng.slack.com/messages/CJLSYEPFA)
+56a704d1c77b4c5ca704d1c77bcc5cc9
